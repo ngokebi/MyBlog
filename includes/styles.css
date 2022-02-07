@@ -1,0 +1,21 @@
+.FieldInfo {
+    color: DarkGray;
+    font-family: "Broadway";
+    font-size: 20px;
+}
+.TextInfo {
+    color: Chocolate;
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
+.CommentBlock{
+    background-color: #F6F7F9;
+}
+.CommentInfo {
+    font-family: "Century Gothic";
+}
+.HeaderInfo {
+    color: DarkGray;
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
